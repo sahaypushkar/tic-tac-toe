@@ -2,9 +2,9 @@
 
 :root {
   --bg-green: linear-gradient(
-    90deg,
-    rgba(4, 57, 46, 1) 0%,
-    rgba(0, 153, 102, 1) 100%
+    90deg, 
+    rgb(10, 64, 52) 0%,
+    rgb(5, 108, 74) 100%
   );
   --bg-red: linear-gradient(90deg, rgb(39, 0, 0) 0%, rgb(149, 0, 0) 100%);
   --bg-brown: linear-gradient(
